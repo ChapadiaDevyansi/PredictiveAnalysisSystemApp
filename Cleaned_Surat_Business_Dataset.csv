@@ -1,0 +1,692 @@
+Sr.No,Area,Address/Street,Shop Name,Category,Rating,No. of Reviews,Website(Yes/No),Website Needed?(Yes/No),Opportunity Flag(High Rating + No Website)
+1,Adajan,Pal Gam,Regnant Clothing,Clothing,4.9,243,No,Yes,Yes
+2,Adajan,Pal Gam,Madhuram Dairy & Sweet,Dairy,4.2,13,No,No,Yes
+3,Adajan,Pal Gam,Wallet Hypermart,Supermarket,4.2,220,No,Yes,Yes
+4,Adajan,Pal Gam,Shri Umiya General Store,Grocery,4.8,17,No,No,Yes
+5,Adajan,Pal Gam,Yuttam Hardware & Building Materials,Hardware Store,4.5,19,No,No,Yes
+6,Adajan,Pal Gam,Just Fresh Surat,Grocery,4.5,24,No,No,Yes
+7,Adajan,Pal Gam,Nand Fashion,Baby Store,4.9,428,Yes,No,No
+8,Adajan,Pal Gam,Royal Dine,Restaurant,4.3,5754,Yes,No,No
+9,Adajan,Pal Gam,Gurukrupa Medical And General Store,Medical Store,5.0,67,No,No,Yes
+10,Adajan,Pal Gam,G2B Fashion Factory,Clothing,5.0,21,No,Yes,Yes
+11,Adajan,Pal Gam,City Medical & General Store,Medical Store,4.6,10,No,No,Yes
+12,Adajan,Pal Gam,Pal Decor. The Furnishing Shop,Furniture Store,4.0,4,No,No,Yes
+13,Adajan,Pal Gam,Stuti Khakhra,Supermarket,4.8,85,Yes,No,No
+14,Adajan,Pal Gam,Gomzi Nutrition Store,Nutrition & Supplement Store,4.9,44,No,Yes,Yes
+15,Adajan,Pal Gam,Snap Kitchen,Restaurant,4.3,168,Yes,No,No
+16,Adajan,Pal Gam,Radhe Furnishing,Furniture Store,4.9,257,No,No,Yes
+17,Adajan,Pal Gam,GAG Coffee,Café,4.8,107,Yes,No,No
+18,Adajan,Pal Gam,Pal Coffee,Coffee Shop,2.3,4,No,No,No
+19,Adajan,Pal Gam,Utsav Hardware House,Hardware Store,4.7,12,No,No,Yes
+20,Adajan,Pal Gam,Indian Idli- Authentic South Indian Cafe,Restaurant,5.0,84,No,No,Yes
+21,Adajan,Pal Gam,Gopal Sons,Grocery,3.2,6,No,No,No
+22,Adajan,Pal Gam,Dimpal Champaneriya,Clothing,0.0,0,No,No,No
+23,Adajan,Pal Gam,Aries Fashion store,Clothing,4.8,4,No,No,Yes
+24,Adajan,Pal Gam,Ajay's Café Pal,Fast Food,4.6,128,Yes,No,No
+25,Adajan,Pal Gam,Padubha Golavala,Ice Gola Shop,5.0,86,No,No,Yes
+26,Adajan,Pal Gam,Ambaji Mart,Grocery,4.6,34,No,No,Yes
+27,Adajan,Pal Gam,Shubham K Mart,Grocery,5.0,83,Yes,No,No
+28,Adajan,Pal Gam,Just Casuals,Clothing,4.2,139,Yes,No,No
+29,Adajan,Pal Gam,Rich Monkey,Sports & Cloth Store,4.8,87,No,Yes,Yes
+30,Adajan,Pal Gam,The Pet Store,Pet Store,4.9,21,No,No,Yes
+31,Adajan,Pal Gam,Fashion with Forum,Clothing,4.4,12,No,Yes,Yes
+32,Adajan,Pal Gam,Glen Kitchen Appliances,Clothing,5.0,11,Yes,No,No
+33,Adajan,Pal Gam,Balaji Superstore,General Store,4.5,11,No,No,Yes
+34,Adajan,Pal Gam,Gopal Kalal,General Store,5.0,1,No,No,Yes
+35,Adajan,Pal Gam,Granny's Deli,Fast Food,4.1,554,No,No,Yes
+36,Adajan,Pal Gam,Rangoli Ice Cream Cafe,Ice Cream,4.7,81,Yes,No,No
+37,Adajan,Pal Gam,Monginis Cake,Cake Shop,4.7,15,Yes,No,No
+38,Adajan,Pal Gam,Syscom Peripherals | Gaming Computer Store,Computer Store,4.7,1214,Yes,No,No
+39,Adajan,Pal Gam,Tupperware,Kitchen Supply Store,4.9,194,No,Yes,Yes
+40,Adajan,Pal Gam,Om Art Store,Stationary Store,4.6,84,No,Yes,Yes
+41,Adajan,Pal Gam,Simply Madras,Restaurant,4.1,2309,Yes,No,No
+42,Adajan,Pal Gam,Ethnix By Raymond,Clothing,4.8,251,Yes,No,No
+43,Adajan,Pal Gam,Utsav Hardware House,Hardware Store,4.7,12,No,No,Yes
+44,Adajan,Pal Gam,A Luxury Salon & Bridal Studio,Hair Salon,4.8,510,Yes,No,No
+45,Adajan,Pal Gam,Hari Om Super Stores,Grocery,2.0,1,No,No,No
+46,Adajan,Pal Gam,Larista-The Coffee House,Coffee Shop,4.7,130,No,Yes,Yes
+47,Adajan,Pal Gam,Yash Stationary & Gift Articles,Stationary Store,4.3,46,No,No,Yes
+48,Adajan,Pal Gam,Mahaveer Stationary,Stationary Store,4.9,819,No,Yes,Yes
+49,Adajan,Pal Gam,Patel Pan Shop,Pan Shop,4.6,16,No,No,Yes
+50,Adajan,Pal Gam,Punjabi Di Hatti,Restaurant,4.0,424,Yes,No,No
+51,Adajan,Pal Gam,Kafe Insperiaa,Café,4.8,675,Yes,No,No
+52,Adajan,Pal Gam,The Krafty Mall Resin Store,Craft Store,4.6,605,No,Yes,Yes
+53,Adajan,Pal Gam,The Raymond Shop,Clothing,4.7,420,Yes,No,No
+54,Adajan,Anand Mahal Road,Motiwala Perfumes,Perfume Store,4.6,136,Yes,No,No
+55,Adajan,Anand Mahal Road,The Lost Village,Clothing,5.0,5,No,Yes,Yes
+56,Adajan,Anand Mahal Road,Reliance Digital,Electronics Store,4.9,5290,Yes,No,No
+57,Adajan,Anand Mahal Road,Umrao Bakery Cakes n Bakes,Cake Shop,4.3,425,Yes,No,No
+58,Adajan,Anand Mahal Road,DR Bakery,Cake Shop,4.9,661,No,No,Yes
+59,Adajan,Anand Mahal Road,First aid clinic.,Medical Clinic,0.0,0,No,No,No
+60,Adajan,Anand Mahal Road,Euro Namkeen & Wafers,Grocery,5.0,38,Yes,No,No
+61,Adajan,Anand Mahal Road,The Crave Kitchen,Restaurant,4.9,52,Yes,No,No
+62,Adajan,Anand Mahal Road,Jakaas Chinese Food,Restaurant,4.2,2423,No,No,Yes
+63,Adajan,Anand Mahal Road,Fit O She Fitness and Pain Management Club,Fitness Center,4.3,46,Yes,No,No
+64,Adajan,Anand Mahal Road,Trinity Furniture,Furniture Store,4.4,31,Yes,No,No
+65,Adajan,Anand Mahal Road,Gangar Eyenation,Optical Store,4.9,1507,Yes,No,No
+66,Adajan,Anand Mahal Road,EYES N' Specs,Optical Store,4.9,493,No,Yes,Yes
+67,Adajan,Anand Mahal Road,Kekiz,Cake Shop,4.7,215,No,No,Yes
+68,Adajan,Anand Mahal Road,Reliance Digital,Electronics Store,4.7,5941,Yes,No,No
+69,Adajan,Anand Mahal Road,Prime Medical,Medical Store,5.0,86,No,No,Yes
+70,Adajan,Anand Mahal Road,91 Fitness,Gym,4.2,217,No,Yes,Yes
+71,Adajan,Anand Mahal Road,Gurukrupa Medical Stores,Medical Store,4.1,9,No,No,Yes
+72,Adajan,Anand Mahal Road,Darshan Traders,Grocery,4.8,6,No,No,Yes
+73,Adajan,Anand Mahal Road,Paws N Claws,Pet Store,4.1,184,No,No,Yes
+74,Adajan,Anand Mahal Road,OneLife Fitness Hub Gym,Gym,4.1,29,No,Yes,Yes
+75,Adajan,Anand Mahal Road,Wood Craft Furniture,Furniture Store,4.9,120,No,Yes,Yes
+76,Adajan,Anand Mahal Road,Vaibhav lifestyle,Clothing,4.5,5,No,Yes,Yes
+77,Adajan,Anand Mahal Road,Roots Beauty Hub,Beauty Parlour,4.9,46,No,No,Yes
+78,Adajan,Anand Mahal Road,6th Square Beauty salon,Beauty Parlour,5.0,53,No,No,Yes
+79,Adajan,Anand Mahal Road,The Pet Store,Pet Store,3.8,29,No,No,No
+80,Adajan,Anand Mahal Road,Turban Punjab,Restaurant,4.5,88,No,No,Yes
+81,Adajan,Anand Mahal Road,Just 4 Paws,Pet Store,4.8,4,No,No,Yes
+82,Adajan,Anand Mahal Road,A to Z Novelty And Gifts Articles & Cosmetic,Gifts & Cosmetics Store,3.7,62,No,No,No
+83,Adajan,Anand Mahal Road,Mobile Shop,Electronics Store,4.5,5,No,No,Yes
+84,Adajan,Anand Mahal Road,Unfiltered,Clothing,5.0,14,No,Yes,Yes
+85,Adajan,Anand Mahal Road,AADI Enterprise,Hardware Store,5.0,1,No,No,Yes
+86,Adajan,Anand Mahal Road,Vijay Dairy,Dairy,4.7,6154,Yes,No,No
+87,Adajan,Anand Mahal Road,Bag Bazar,Bag Store,5.0,48,No,No,Yes
+88,Adajan,Anand Mahal Road,Sambhav Beauty Care,Beauty Supple Store,4.5,471,Yes,No,No
+89,Adajan,Anand Mahal Road,Yogi Stationery,Stationary Store,5.0,3,No,No,Yes
+90,Adajan,Anand Mahal Road,Jay Collection,Clothing,5.0,4,No,No,Yes
+91,Adajan,Anand Mahal Road,Gasolina,Clothing,4.8,1321,No,Yes,Yes
+92,Adajan,Anand Mahal Road,Funfoo Store,Variety Store,4.7,122,No,Yes,Yes
+93,Adajan,Anand Mahal Road,Reliance SMART Superstore,Supermarket,4.2,1160,Yes,No,No
+94,Adajan,Anand Mahal Road,Babyhug Store,Baby Store,4.8,475,No,Yes,Yes
+95,Adajan,Anand Mahal Road,Zudio,Clothing,4.2,404,Yes,No,No
+96,Adajan,Anand Mahal Road,Reliance Mall,Shopping Mall,4.3,1170,Yes,No,No
+97,Adajan,Anand Mahal Road,Ratan Stores,General Store,4.3,19,No,No,Yes
+98,Adajan,Anand Mahal Road,Maa Annapurna flour house and general store,General Store,5.0,5,No,No,Yes
+99,Adajan,Anand Mahal Road,Maa & Baby,Baby Store,4.4,123,Yes,No,No
+100,Adajan,Anand Mahal Road,Magson,Grocery,4.6,731,Yes,No,No
+101,Adajan,Anand Mahal Road,Trends,Clothing,4.0,175,Yes,No,No
+102,Adajan,Anand Mahal Road,7T7T ND Sports,Sports Store,4.4,27,No,No,Yes
+103,Adajan,Anand Mahal Road,Roop Nikharr,Beauty Parlour,4.5,188,No,No,Yes
+104,Adajan,Anand Mahal Road,A to Z Cosmetics Store,Cosmetics Store,4.0,14,No,No,Yes
+105,Adajan,Anand Mahal Road,Anokhee,Clothing,4.9,77,Yes,No,No
+106,Adajan,Anand Mahal Road,JOBAN,Clothing,4.9,10,No,Yes,Yes
+107,Adajan,Anand Mahal Road,Fitness 365 Professional Nutririonist / Weight loss Specialist,Nutritionist,4.9,62,No,No,Yes
+108,Adajan,Anand Mahal Road,Apollo Pharmacy,Medical Store,3.1,95,Yes,No,No
+109,Adajan,Anand Mahal Road,Parmar Boot House,Shoe Store,4.9,3846,Yes,No,No
+110,Adajan,Anand Mahal Road,F Unisex Salon & Academy,Hair Salon,4.2,228,No,No,Yes
+111,Adajan,Anand Mahal Road,Gruh Sajavat offical,Furniture Store,4.8,6,Yes,No,No
+112,Adajan,Anand Mahal Road,Shree Omkar Masala Gruh,Grocery,4.6,16,No,No,Yes
+113,Adajan,Anand Mahal Road,Bharat Masala,Spice Store,4.2,6,No,No,Yes
+114,Adajan,Honey Park Rd,Amrit Mobiles & Electronics,Electronics Store,4.7,2567,Yes,No,No
+115,Adajan,Honey Park Rd,Shree Arihant Ply & hardware,Hardware Store,4.4,10,No,No,Yes
+116,Adajan,Honey Park Rd,Amazing gift & toys,Gift Shop,5.0,45,No,No,Yes
+117,Adajan,Honey Park Rd,Aashirwad Provision Stores,General Store,4.1,14,No,No,Yes
+118,Adajan,Honey Park Rd,Sangam Hardware & Sanitary,Hardware Store,4.0,5,No,No,Yes
+119,Adajan,Honey Park Rd,Jenny & Johnny - The Pet Dog Zone,Pet Store,4.9,87,No,No,Yes
+120,Adajan,Honey Park Rd,Glorious Restaurant,Restaurant,4.1,3978,No,Yes,Yes
+121,Adajan,Honey Park Rd,Priya Mobile,Electronics Store,4.3,15,No,No,Yes
+122,Adajan,Honey Park Rd,Surtiflavour,Grocery,4.8,431,Yes,No,No
+123,Adajan,Honey Park Rd,Pet World,Pet Store,4.7,125,No,No,Yes
+124,Adajan,Honey Park Rd,Aashirwad Provision Stores,General Store,4.1,14,No,No,Yes
+125,Adajan,Honey Park Rd,Harihar Dairy & General Stores,Grocery,4.6,29,No,No,Yes
+126,Adajan,Honey Park Rd,Amazing Gift & Toys,Gift Shop,5.0,45,No,No,Yes
+127,Adajan,Honey Park Rd,Atoz Gift & Dollar Shop,Gift Shop,3.7,202,No,No,No
+128,Adajan,Honey Park Rd,Dream Hub,Gift Shop,4.9,71,No,Yes,Yes
+129,Adajan,Honey Park Rd,My Eyes Optics,Optical Store,5.0,83,No,No,Yes
+130,Adajan,Honey Park Rd,Lenskart,Optical Store,4.9,1533,Yes,No,No
+131,Adajan,Honey Park Rd,Vision View Optics,Optical Store,4.8,4,No,No,Yes
+132,Adajan,Honey Park Rd,3rd eye optical,Optical Store,5.0,11,No,Yes,Yes
+133,Adajan,Honey Park Rd,U Opticals & Eyewear,Optical Store,4.1,10,No,No,Yes
+134,Adajan,Honey Park Rd,Prava Phsiotherapy,Physiotherapy,5.0,8,No,No,Yes
+135,Adajan,Honey Park Rd,Astha Eye Hospital,Hospital,4.8,68,No,No,Yes
+136,Adajan,Honey Park Rd,Research Ayu Knee Expert Clinc,Medical Clinic,4.8,71,Yes,No,No
+137,Adajan,Honey Park Rd,Yashasvi Clininc,Medical Clinic,5.0,20,No,No,Yes
+138,Adajan,Honey Park Rd,LS Skin Clinic,Medical Clinic,5.0,68,Yes,No,No
+139,Adajan,Honey Park Rd,Nikhil Children Hospital,Hospital,3.7,30,No,No,No
+140,Adajan,Honey Park Rd,Smart Skin Clinic,Medical Clinic,5.0,2,No,No,Yes
+141,Adajan,Honey Park Rd,Paradise Dental Care,Medical Clinic,5.0,71,No,No,Yes
+142,Adajan,Honey Park Rd,Hair Story - Unisex Salon,Hair Salon,4.8,67,No,No,Yes
+143,Adajan,Honey Park Rd,Surat Bakery,Cake Shop,4.8,12,No,No,Yes
+144,Adajan,Honey Park Rd,The Baker's Heart,Bakery Equipment,4.3,75,No,No,Yes
+145,Adajan,Honey Park Rd,Havmor Ice Cream,Ice Cream,4.1,260,Yes,No,No
+146,Adajan,Honey Park Rd,Daddy's Cake,Cake Shop,4.6,49,No,No,Yes
+147,Adajan,Honey Park Rd,Smart Beauty NX,Cosmetics Store,4.9,27,No,No,Yes
+148,Adajan,Honey Park Rd,Harihar Dairy & General Stores,Grocery,4.6,29,No,No,Yes
+149,Adajan,Honey Park Rd,Cream 'N' Crust,Pastry Shop,4.0,391,No,No,Yes
+150,Adajan,Honey Park Rd,Laxmi Pipe And Hardware,Hardware Store,3.7,3,No,No,No
+151,Adajan,Honey Park Rd,Shree Balaji Hardware & Timber Ply,Hardware Store,4.9,10,No,No,Yes
+152,Adajan,Honey Park Rd,Atul Bakery,Bakery,4.1,370,Yes,No,No
+153,Adajan,Honey Park Rd,Surbhi Dairy & Sweets,Dairy,4.1,3220,No,No,Yes
+154,Adajan,Honey Park Rd,Ashok Medical & General Stores,Medical Store,2.3,47,No,No,No
+155,Adajan,Honey Park Rd,Dharti Traders,Grocery,3.9,311,No,No,No
+156,Adajan,L.P Savani Road,Style Union,Clothing,4.7,3691,Yes,No,No
+157,Adajan,L.P Savani Road,Croma,Electronics Store,4.7,24631,Yes,No,No
+158,Adajan,L.P Savani Road,Keshav Sales,Electronics Store,4.7,39,No,No,Yes
+159,Adajan,L.P Savani Road,Giva,Jewellery Store,5.0,81,Yes,No,No
+160,Adajan,L.P Savani Road,CaratLane,Jewellery Store,5.0,1188,Yes,No,No
+161,Adajan,L.P Savani Road,Tanishq,Jewellery Store,4.9,5691,Yes,No,No
+162,Adajan,L.P Savani Road,BlueStone,Jewellery Store,4.9,465,Yes,No,No
+163,Adajan,L.P Savani Road,Palmonas,Jewellery Store,4.8,108,Yes,No,No
+164,Adajan,L.P Savani Road,Mia By Tanishq,Jewellery Store,5.0,1695,Yes,No,No
+165,Adajan,L.P Savani Road,ORRA,Jewellery Store,4.9,1009,Yes,No,No
+166,Adajan,L.P Savani Road,The Souled Store,Clothing,4.9,48,Yes,No,No
+167,Adajan,L.P Savani Road,Keshav Sales(Wholesaler),Electronics Store,4.7,39,No,No,Yes
+168,Adajan,L.P Savani Road,LinenClub,Clothing,4.8,299,Yes,No,No
+169,Adajan,L.P Savani Road,Croma,Electronics Store,4.7,24630,Yes,No,No
+170,Adajan,L.P Savani Road,Lala Bhai Clothing Hub,Clothing,5.0,3,No,No,Yes
+171,Adajan,L.P Savani Road,Leela Stores,General Store,4.3,7,No,No,Yes
+172,Adajan,L.P Savani Road,Arihant Super Store,Grocery,4.6,75,No,No,Yes
+173,Adajan,L.P Savani Road,Louis Philippe,Clothing,4.6,91,Yes,No,No
+174,Adajan,L.P Savani Road,Saw Chintukumar Sri Dilchand,Tea Store,4.1,15,No,No,Yes
+175,Adajan,L.P Savani Road,Welcome Super Market,Supermarket,4.8,10,No,No,Yes
+176,Adajan,L.P Savani Road,Kailash Medical and provisional store,Medical Store,5.0,3,No,No,Yes
+177,Adajan,L.P Savani Road,Vidhyarthi Stores,Stationary Store,3.9,270,No,No,No
+178,Adajan,L.P Savani Road,Coffee King,Coffee Shop,4.4,4428,Yes,No,No
+179,Adajan,L.P Savani Road,Nothing Before Coffee,Coffee Shop,4.7,1384,Yes,No,No
+180,Adajan,L.P Savani Road,Starbucks,Coffee Shop,4.4,1441,Yes,No,No
+181,Adajan,L.P Savani Road,Theobroma,Bakery,4.4,362,Yes,No,No
+182,Adajan,L.P Savani Road,Black Horse,Coffee Shop,4.6,101,No,Yes,Yes
+183,Adajan,L.P Savani Road,Heads Up For Tails,Pet Store,4.9,328,Yes,No,No
+184,Adajan,L.P Savani Road,Ajay's Café,Café,4.3,2934,Yes,No,No
+185,Adajan,L.P Savani Road,Cheese corner,Café,4.7,30,No,No,Yes
+186,Adajan,L.P Savani Road,My Cold  Zone,Café,4.4,378,No,No,Yes
+187,Adajan,L.P Savani Road,Drashti Hardware & ply,Hardware Store,4.9,27,No,Yes,Yes
+188,Adajan,L.P Savani Road,Optic Hub,Optical Store,5.0,2,No,No,Yes
+189,Adajan,L.P Savani Road,Ply Plus - Laminate Store | Furniture,Hardware Store,5.0,71,Yes,No,No
+190,Adajan,L.P Savani Road,Shree Darshan Hardware,Hardware Store,4.8,11,No,No,Yes
+191,Adajan,L.P Savani Road,Shiva ply & Hardware,Hardware Store,5.0,6,No,No,Yes
+192,Adajan,L.P Savani Road,Laxmi Pipe And Hardware,Hardware Store,3.7,3,No,No,No
+193,Adajan,L.P Savani Road,Shree Bajrang Tools,Tool Store,4.6,8,No,No,Yes
+194,Adajan,L.P Savani Road,iVenus,Electronics Store,4.5,1804,Yes,No,No
+195,Adajan,L.P Savani Road,HI Mobile,Electronics Store,4.9,51,No,No,Yes
+196,Adajan,L.P Savani Road,Mobile Zone,Repair Shop,4.4,7,No,No,Yes
+197,Adajan,L.P Savani Road,LG Best Shop - Sai Krishna Agency,Electronics Store,4.6,79,Yes,No,No
+198,Adajan,L.P Savani Road,La Patissiere,Cake Shop,4.2,179,Yes,No,No
+199,Adajan,L.P Savani Road,Eye Catcher,Optical Store,5.0,37,No,No,Yes
+200,Adajan,L.P Savani Road,Titan Eye+,Optical Store,4.7,643,Yes,No,No
+201,Adajan,L.P Savani Road,Spectacle Studio,Optical Store,5.0,138,Yes,No,No
+202,Adajan,L.P Savani Road,Enrich Salon,Beauty Parlour,4.8,3145,Yes,No,No
+203,Adajan,L.P Savani Road,Seewans -Tasty Bakes,Cake Shop,4.3,309,Yes,No,No
+204,Adajan,L.P Savani Road,Bonanza Luxe Premium Salon,Beauty Parlour,4.7,1185,Yes,No,No
+205,Adajan,L.P Savani Road,Sv Unisex Salon,Hair Salon,5.0,92,No,No,Yes
+206,Adajan,L.P Savani Road,Lakme Salon,Beauty Parlour,4.8,441,Yes,No,No
+207,Adajan,L.P Savani Road,THE LOOK,Hair Salon,4.7,75,No,No,Yes
+208,Adajan,L.P Savani Road,Slimphy Fitness Center pvt ltd,Gym,4.8,187,Yes,No,No
+209,Adajan,L.P Savani Road,Gym Flex,Gym,4.6,523,No,No,Yes
+210,Adajan,Palanpur Patia,Deepak Stationary Store,Stationary Store,4.2,182,No,No,Yes
+211,Adajan,Palanpur Patia,Mehta Agency,Electronics Store,5.0,4,No,No,Yes
+212,Adajan,Palanpur Patia,Jayesh Stores,General Store,4.4,8,No,No,Yes
+213,Adajan,Palanpur Patia,S G Store,General Store,5.0,1,No,No,Yes
+214,Adajan,Palanpur Patia,Hari Om Electricals,Electrical Supply Store,4.5,97,No,No,Yes
+215,Adajan,Palanpur Patia,Phone Merchants,Electronics Store,4.3,79,No,No,Yes
+216,Adajan,Palanpur Patia,A.V STATIONERY,Stationary Store,4.8,14,No,No,Yes
+217,Adajan,Palanpur Patia,Asha Store,General Store,4.3,40,No,No,Yes
+218,Adajan,Palanpur Patia,Mansi Bombay Bazar,Cosmetics Store,3.7,134,No,No,No
+219,Adajan,Palanpur Patia,Kazi Books & Stationary,Stationary Store,4.2,405,No,No,Yes
+220,Adajan,Palanpur Patia,Shree Sai Sports,Sports Store,3.7,297,No,No,No
+221,Adajan,Palanpur Patia,Prime Sports,Sports Store,5.0,2,No,No,Yes
+222,Adajan,Palanpur Patia,Vishwa Fashion,Clothing,3.5,10,No,No,No
+223,Adajan,Palanpur Patia,Patanjali Store And Chikitsalaya,Ayurvedic Store,4.0,51,Yes,No,No
+224,Adajan,Palanpur Patia,S.G. Traders,Bathroom Supply Store,4.8,30,No,No,Yes
+225,Adajan,Palanpur Patia,Vaibhav Dairy,Dairy,4.5,355,No,No,Yes
+226,Adajan,Palanpur Patia,Dev Kariyana Stores,Grocery,4.2,25,No,No,Yes
+227,Adajan,Palanpur Patia,Anaya Store,General Store,5.0,3,No,No,Yes
+228,Adajan,Palanpur Patia,Ambicka Colour World,Paint Store,4.6,8,No,No,Yes
+229,Adajan,Palanpur Patia,Trends,Clothing,4.0,175,Yes,No,No
+230,Adajan,Palanpur Patia,Vijay Dairy,Dairy,4.9,6949,Yes,No,No
+231,Adajan,Palanpur Patia,My Kalyan,Jewellery Store,5.0,1,Yes,No,No
+232,Adajan,Palanpur Patia,Shree Sai Baba Stationery & General Store,Stationary Store,4.1,16,No,No,Yes
+233,Adajan,Palanpur Patia,Tulsi Decore,Tile Store,4.8,10,No,No,Yes
+234,Adajan,Palanpur Patia,Vi-Vodafone Idea,Mobile Service Provider,4.7,2057,Yes,No,No
+235,Adajan,Palanpur Patia,Vedi General Store,General Store,5.0,2,No,No,Yes
+236,Adajan,Palanpur Patia,Varahi Medical & Provision Stores,Medical Store,3.5,2,No,No,No
+237,Adajan,Palanpur Patia,5G Phones,Electronics Store,5.0,1,Yes,No,No
+238,Adajan,Palanpur Patia,Hiral Pasti & Plastic,Packaging Store,4.2,60,No,No,Yes
+239,Adajan,Palanpur Patia,Sabse Sasta Sale,Clothing,3.7,74,No,No,No
+240,Adajan,Palanpur Patia,Sugam Medical Store,Medical Store,4.5,2,Yes,No,No
+241,Adajan,Palanpur Patia,New Somnath Cycle Mart,Bicycle Store,4.9,300,No,No,Yes
+242,Adajan,Palanpur Patia,Lakyashvi Fashion,Clothing,3.5,18,No,No,No
+243,Adajan,Palanpur Patia,Bhatia's Mobile,Electronics Store,5.0,1,Yes,No,No
+244,Adajan,Palanpur Patia,Arun Store,General Store,0.0,0,No,No,No
+245,Adajan,Palanpur Patia,SSS-Sawariya Super Store,Grocery,5.0,6,No,No,Yes
+246,Adajan,Palanpur Patia,Jay Jalaram Shopping Centre,General Store,3.8,4,No,No,No
+247,Adajan,Palanpur Patia,Surti Collection,Clothing,4.5,6,No,No,Yes
+248,Adajan,Palanpur Patia,Zudio,Clothing,4.3,115,Yes,No,No
+249,Adajan,Palanpur Patia,Looto Creation,Clothing,3.8,37,No,No,No
+250,Adajan,Palanpur Patia,Sundara Beauty Cosmetic & Fashion Store,Clothing,0.0,0,No,No,No
+251,Adajan,Palanpur Patia,Loot Loo Store,Clothing,5.0,1,No,No,Yes
+252,Adajan,Palanpur Patia,Swastik book Store,Book Store,4.9,29,No,No,Yes
+253,Adajan,Palanpur Patia,Mahavir Jwellers,Jewellery Store,3.4,18,No,No,No
+254,Adajan,Palanpur Patia,Sanskar Medicines,Medical Store,3.9,7,No,No,No
+255,Adajan,Palanpur Patia,DK Fruit,Fruit Store,3.8,4,No,No,No
+256,Adajan,Palanpur Patia,Rajdhani Mattress Mart,Mattress Store,3.5,11,No,No,No
+257,Adajan,Palanpur Patia,The Libas Collection,Clothing,4.7,215,Yes,No,No
+258,Adajan,Palanpur Patia,Hitanshu Patanjali Store,Ayurvedic Store,5.0,2,No,No,Yes
+259,Adajan,Palanpur Patia,Patel Dairy And Sweets,Dairy,4.2,31,No,No,Yes
+260,Adajan,Palanpur Patia,Roshni Opticals,Optical Store,4.9,43,No,No,Yes
+261,Adajan,Palanpur Patia,Krishna Stationery & Xerox,Stationary Store,4.0,14,No,No,Yes
+262,Adajan,Palanpur Patia,Grenee,Fast Food,4.7,89,Yes,No,No
+263,Adajan,Palanpur Patia,Laxmi Jewellers,Jewellery Store,4.9,48,Yes,No,No
+264,Adajan,Palanpur Patia,A-One Cakes & Pastry,Cake Shop,3.1,52,No,No,No
+265,Adajan,Palanpur Patia,Jas Medical Store,Medical Store,5.0,1,No,No,Yes
+266,Adajan,Palanpur Patia,7 Colours Unisex Salon,Beauty Parlour,5.0,10,No,No,Yes
+267,Adajan,Palanpur Patia,Ganesh Electronics Electricals,Electronics Store,4.4,8,No,No,Yes
+268,Adajan,Palanpur Patia,Parmar Footware,Shoe Store,4.0,7,No,No,Yes
+269,Adajan,Palanpur Patia,Kanak Nidhi Auto & Battery Point,Auto Parts Store,3.4,26,No,No,No
+270,Adajan,Palanpur Patia,Paras Bag,Bag Store,4.0,28,No,No,Yes
+271,Adajan,Palanpur Patia,Kishan Dairy Farm And Sweet,Dairy,4.2,51,No,No,Yes
+272,Adajan,Palanpur Patia,Dhairya General Store,General Store,3.7,6,No,No,No
+273,Adajan,Palanpur Patia,Gujarat furnishing sofa shop,Sofa Store,5.0,3,No,No,Yes
+274,Adajan,Palanpur Patia,Maruti Fish Aquarium,Aquarium,4.2,528,No,No,Yes
+275,Adajan,Gujarat Gas Circle,4M's Kitchen,Restaurant,4.8,266,Yes,No,No
+276,Adajan,Gujarat Gas Circle,Indian idli cafe,Café,4.8,97,No,No,Yes
+277,Adajan,Gujarat Gas Circle,Shiv Sagar Dining Hall,Restaurant,4.1,1273,No,No,Yes
+278,Adajan,Gujarat Gas Circle,Mahalaxmi Juice & Fast Food Corner.,Restaurant,4.4,16434,No,No,Yes
+279,Adajan,Gujarat Gas Circle,Aashray Dining Hall,Restaurant,4.9,21,No,No,Yes
+280,Adajan,Gujarat Gas Circle,Ajay’s Café,Fast Food,4.8,265,Yes,No,No
+281,Adajan,Gujarat Gas Circle,Perfect Shape,Gym,4.9,427,No,No,Yes
+282,Adajan,Gujarat Gas Circle,Musclehouse Gym and Fitness,Gym,5.0,1,Yes,No,No
+283,Adajan,Gujarat Gas Circle,Gujarat furnishing sofa shop,Medical Store,4.8,34,Yes,No,No
+284,Adajan,Gujarat Gas Circle,Astha Medical Store,Medical Store,5.0,1,No,No,Yes
+285,Adajan,Gujarat Gas Circle,Aastha Medical Hospital,Medical Store,4.3,25,No,No,Yes
+286,Adajan,Gujarat Gas Circle,Gujarat Homoeo Sales Agency,Medical Store,4.6,10,No,No,Yes
+287,Adajan,Gujarat Gas Circle,Ankoor Surgical Hospital,Hospital,4.5,11,No,No,Yes
+288,Adajan,Gujarat Gas Circle,davaindia,Medical Store,5.0,2,Yes,No,No
+289,Adajan,Gujarat Gas Circle,Magson,Grocery,4.6,731,Yes,No,No
+290,Adajan,Gujarat Gas Circle,Gujarat Super Store,General Store,4.6,82,No,No,Yes
+291,Adajan,Gujarat Gas Circle,Perfect Cut Salon,Beauty Parlour,5.0,14,No,No,Yes
+292,Adajan,Gujarat Gas Circle,Studi99 Unisex Salon,Hair Salon,4.7,3,No,No,Yes
+293,Adajan,Gujarat Gas Circle,Shree Ashapura Pipe center,Pips Wholesaler,4.3,88,No,No,Yes
+294,Adajan,Gujarat Gas Circle,Hardware House,Hardware Store,4.3,75,No,No,Yes
+295,Adajan,Gujarat Gas Circle,Veer Enterprise,Hardware Store,4.8,14,No,No,Yes
+296,Adajan,Gujarat Gas Circle,Gandhi Electronics,Electronics Store,4.1,266,No,No,Yes
+297,Adajan,Gujarat Gas Circle,Cream 'N' Crust,Pastry Shop,4.1,115,No,No,Yes
+298,Adajan,Gujarat Gas Circle,Dog Club,Pet Store,4.8,185,Yes,No,No
+299,Adajan,Gujarat Gas Circle,Vijay Dairy,Dairy,4.7,6154,Yes,No,No
+300,Adajan,Gujarat Gas Circle,Madhvi Dairy,Dairy,4.7,267,Yes,No,No
+301,Adajan,Gujarat Gas Circle,Hevmor Mobile,Electronics Store,4.3,18,No,No,Yes
+302,Adajan,Gujarat Gas Circle,Pan India,Clothing,4.2,93,No,Yes,Yes
+303,Adajan,Gujarat Gas Circle,My Mobile,Electronics Store,4.0,182,No,No,Yes
+304,Adajan,Gujarat Gas Circle,FoneBook,Electronics Store,4.1,31,No,No,Yes
+305,Adajan,Gujarat Gas Circle,Karma Psychiatry & De-addiction Clinic,Medical Clinic,4.9,51,No,No,Yes
+306,Adajan,Gujarat Gas Circle,Satellite Diagnostic Centere,X-Ray Lab,4.8,55,No,No,Yes
+307,Adajan,Gujarat Gas Circle,Dr. Rohit's Alopecia Treatment Center,Medical Clinic,4.9,397,Yes,No,No
+308,Adajan,Gujarat Gas Circle,Riddhi Clinic,Medical Clinic,0.0,0,Yes,No,No
+309,Adajan,Gujarat Gas Circle,Shree dental clinic,Medical Clinic,5.0,69,Yes,No,No
+310,Adajan,Gujarat Gas Circle,Ankoor Surgical Hospital,Hospital,4.5,11,No,No,Yes
+311,Adajan,Gujarat Gas Circle,Aneri Day Care Clinic For Gynec Problem,Hospital,4.8,14,Yes,No,No
+312,Adajan,Gujarat Gas Circle,"Reva skin,hair and laser clinic",Medical Clinic,5.0,35,No,No,Yes
+313,Adajan,Gujarat Gas Circle,Radhika Women’s Care,Hospital,5.0,32,Yes,No,No
+314,Adajan,Gujarat Gas Circle,Cure Clinic,Medical Clinic,4.8,198,No,No,Yes
+315,Adajan,Gujarat Gas Circle,Shifa Ayu Ayurved Hospital & Panchkarma Research Centre,Ayurvedic Clinic,4.9,42,No,No,Yes
+316,Adajan,Gujarat Gas Circle,Aastha Medical Hospital,Hospital,4.3,25,No,No,Yes
+317,Adajan,Gujarat Gas Circle,Gujarat Gas Ltd,Gas Agency,3.6,1026,Yes,No,No
+318,Adajan,Gujarat Gas Circle,Karan's dental care,Medical Clinic,4.9,42,No,No,Yes
+319,Adajan,Gujarat Gas Circle,Diagnostic Services,Diagnostic Center,5.0,3,Yes,No,No
+320,Adajan,Gujarat Gas Circle,Dasatva: The Healing Studio,Health Consultant,5.0,92,Yes,No,No
+321,Adajan,Gujarat Gas Circle,Paruls Hearing And Speech Clinic,Hearing & Speech Clinic,4.9,285,No,No,Yes
+322,Adajan,Gujarat Gas Circle,We Care Hair Transplant Clinic,Hair Transplantation Clinic,0.0,0,No,No,No
+323,Adajan,Gujarat Gas Circle,Advik Wellness Center,Wellness Center,4.5,16,No,No,Yes
+324,Adajan,Gujarat Gas Circle,Deep Eye Hospital & Laser Centre,Hospital,4.9,14,No,No,Yes
+325,Adajan,Gujarat Gas Circle,Advance Dental Care & Implant Centre,Medical Clinic,5.0,10,No,No,Yes
+326,Adajan,Gujarat Gas Circle,DrK C Shah Skin Clinic,Medical Clinic,5.0,3,Yes,No,No
+327,Adajan,Gujarat Gas Circle,Endolite India Limited,Orthotics & Prosthetics Centre,4.5,116,Yes,No,No
+328,Adajan,Gujarat Gas Circle,Gujarat Gas CNG Station,Gas Station,4.3,57,No,No,Yes
+329,Adajan,Gujarat Gas Circle,Om Sai Ayurved Panchkarma Hospital,Ayurvedic Clinic,4.0,4,No,No,Yes
+330,Adajan,Gujarat Gas Circle,Unique Hair Transplant clinic,Hair Transplantation Clinic,0.0,0,No,No,No
+331,Adajan,Gujarat Gas Circle,New Look Oral & Maxillofacial Centre,Hospital,5.0,6,Yes,No,No
+332,Adajan,Gujarat Gas Circle,Khandwala Laboratory,Medical Laboratory,3.8,13,Yes,No,No
+333,Adajan,Gujarat Gas Circle,AMRUT Ayurvedic Panchkarma Hospital,Ayurvedic Clinic,4.9,51,Yes,No,No
+334,Adajan,Gujarat Gas Circle,Sri Laxmi Gas Sales & Services,Gas Agency,5.0,2,No,No,Yes
+335,Adajan,Gujarat Gas Circle,Laxmi Associates (Gaswala),Gas Agency,3.0,2,No,No,No
+336,Adajan,Gujarat Gas Circle,Gerej,Repair Shop,4.0,2,No,No,Yes
+337,Adajan,Gujarat Gas Circle,Gujarat Gas - Customer Care Center,Gas Agency,1.8,121,No,No,No
+338,Adajan,Gujarat Gas Circle,Lata sales & Marketing,Home Goods Store,4.9,92,No,No,Yes
+339,Adajan,Gujarat Gas Circle,New Ramdev Steel Center,Appliance Store,0.0,0,Yes,No,No
+340,Adajan,Gujarat Gas Circle,Yadgar Enterprise,Gas Agency,3.9,9,No,No,No
+341,Adajan,Gujarat Gas Circle,Bhagvanbhai Dungarbhai More,General Store,4.8,4,No,No,Yes
+342,Adajan,Gujarat Gas Circle,Gujarat Essence Mart,Bakery,4.3,293,Yes,No,No
+343,Adajan,Gujarat Gas Circle,Gopi Gas Center,Gas Agency,3.0,3,No,No,No
+344,Adajan,Gujarat Gas Circle,Ram Battery,Battery Store,4.8,337,No,No,Yes
+345,Adajan,Adajan Gam,D Mart,Supermarket,4.3,15547,Yes,No,No
+346,Adajan,Adajan Gam,Ratan Stores,General Store,4.3,19,No,No,Yes
+347,Adajan,Adajan Gam,The Venisiya Salon,Beauty Parlour,4.9,1198,Yes,No,No
+348,Adajan,Adajan Gam,Jigs Unisex Salon,Hair Salon,4.9,101,No,No,Yes
+349,Adajan,Adajan Gam,Style Hair Salon,Hair Salon,3.9,87,No,No,No
+350,Adajan,Adajan Gam,Gautam Ayurvedic Clinic and Physiocare,Medical Clinic,3.8,6,No,No,No
+351,Adajan,Adajan Gam,Gujarat Mobile,Electronics Store,4.8,6,No,No,Yes
+352,Adajan,Adajan Gam,Rennoki,Café,4.8,482,Yes,No,No
+353,Adajan,Adajan Gam,Kshitij Restaurant & Banquet,Restaurant,4.1,2886,No,Yes,Yes
+354,Adajan,Adajan Gam,Deepak Super Store & Dry Fruits,Grocery,4.5,29,No,No,Yes
+355,Adajan,Adajan Gam,LIMITLESS Hair & Beauty studio,Beauty Parlour,4.9,1149,No,Yes,Yes
+356,Adajan,Adajan Gam,KKristy Hair Salon,Hair Salon,4.3,150,Yes,No,No
+357,Adajan,Adajan Gam,Tanishq Beauty Salon & Spa.,Beauty Parlour,4.7,361,Yes,No,No
+358,Adajan,Adajan Gam,Ply Plus,Hardware Store,5.0,71,No,No,Yes
+359,Adajan,Adajan Gam,La Gloria,Cake Shop,4.7,196,No,No,Yes
+360,Adajan,Mora Bhagal,Morabhagal Market,Local Market,4.3,28,No,No,Yes
+361,Adajan,Mora Bhagal,Gurukrupa Hardware & Sanitary Store,Hardware Store,4.4,11,No,No,Yes
+362,Adajan,Mora Bhagal,M R Enterprise,Grocery,5.0,1,No,No,Yes
+363,Adajan,Mora Bhagal,Sai Aquarium & Pet Shop,Aquarium,4.7,38,No,No,Yes
+364,Adajan,Mora Bhagal,Ambika Super Store,Grocery,5.0,2,No,No,Yes
+365,Adajan,Mora Bhagal,Gurukrupa Hardware & Sanitary Store,Hardware Store,4.4,11,No,No,Yes
+366,Adajan,Mora Bhagal,Waffle World,Café,4.5,152,Yes,No,No
+367,Adajan,Mora Bhagal,Prakash Telecom,Electronics Store,4.6,1473,No,Yes,Yes
+368,Adajan,Mora Bhagal,Shreenathji Medical,Medical Store,5.0,1,No,No,Yes
+369,Adajan,Mora Bhagal,Sahil Creations,Clothing,1.0,1,No,No,No
+370,Adajan,Mora Bhagal,Hari Om Medical & General Store,Medical Store,0.0,0,No,No,No
+371,Adajan,Mora Bhagal,Shringar Sadan,General Store,5.0,1,No,No,Yes
+372,Adajan,Mora Bhagal,Shah Vajid Ismail,General Store,0.0,0,No,No,No
+373,Adajan,Rander Road,Vijay Sales,Electronics Store,4.7,14771,Yes,No,No
+374,Adajan,Rander Road,Deepika Store,General Store,4.5,35,No,No,Yes
+375,Adajan,Rander Road,Harmony,Gift Shop,4.7,645,No,No,Yes
+376,Adajan,Rander Road,Deepak Stationery Store,Stationary Store,4.2,182,No,No,Yes
+377,Adajan,Rander Road,Vijay Garments,Clothing,4.7,4293,No,Yes,Yes
+378,Adajan,Rander Road,New Mahadev Store,Grocery,4.5,25,No,No,Yes
+379,Adajan,Rander Road,Kanaiya Fashion,Clothing,4.1,222,No,No,Yes
+380,Adajan,Rander Road,Rander Ramzan Bazar,Food Market,4.3,896,No,No,Yes
+381,Adajan,Rander Road,Krishna Traders,Clothing,3.7,303,No,No,No
+382,Adajan,Rander Road,Sadabahar Fashion,Clothing,4.8,474,Yes,No,No
+383,Adajan,Rander Road,Nirman Electronic,Electronics Store,4.1,329,No,No,Yes
+384,Adajan,Rander Road,INT Pan Center & Cold Drinks,Pan Shop,4.4,714,No,No,Yes
+385,Adajan,Rander Road,Sapna Furniture,Furniture Store,4.4,54,No,No,Yes
+386,Adajan,Rander Road,Royal Décor,Home Goods Store,4.4,45,No,No,Yes
+387,Adajan,Rander Road,R C Collection,Clothing,4.1,31,No,No,Yes
+388,Adajan,Rander Road,WaterBomb Panipuri Shop,Fast Food,4.8,474,No,No,Yes
+389,Adajan,Rander Road,Jilani,Tobacco Shop,5.0,2,No,No,Yes
+390,Adajan,Rander Road,Deluxe Boutique & Ladies Tailors,Boutique & Tailor,4.6,52,No,No,Yes
+391,Adajan,Rander Road,Dollar Pan,Pan Shop,4.4,132,No,No,Yes
+392,Adajan,Rander Road,Padela Super Store,Grocery,4.0,54,No,No,Yes
+393,Adajan,Rander Road,Priya Mobile,Electronics Store,4.1,130,No,No,Yes
+394,Adajan,Rander Road,Prakash Bakery,Bakery,4.1,479,Yes,No,No
+395,Adajan,Rander Road,Bharat lace,Clothing Accessories Store,4.3,35,No,No,Yes
+396,Adajan,Rander Road,Vision Plus,Optical Store,4.3,61,No,Yes,Yes
+397,Adajan,Rander Road,Formal Clothing Company,Clothing,5.0,27,No,No,Yes
+398,Adajan,Rander Road,Vijay Dairy,Dairy,4.9,6949,Yes,No,No
+399,Adajan,Rander Road,Organic Zone,Organic Store,4.5,8,No,No,Yes
+400,Adajan,Rander Road,Jay Ranchhod Stores,General Store,4.0,6,No,No,Yes
+401,Adajan,Rander Road,Parmar Boot House,Shoe Store,5.0,2189,Yes,No,No
+402,Adajan,Rander Road,Breadliner,Cake Shop,4.0,75,Yes,No,No
+403,Adajan,Rander Road,Furniture Wala,Furniture Store,4.9,69,Yes,No,No
+404,Adajan,Rander Road,Vedi,General Store,5.0,2,No,No,Yes
+405,Adajan,Rander Road,Jyoti Times,Watch Store,4.9,80,No,No,Yes
+406,Adajan,Rander Road,Sport holics,Sports Store,5.0,36,No,No,Yes
+407,Adajan,Rander Road,IFB Point,Appliance Store,4.1,99,Yes,No,No
+408,Adajan,Rander Road,Azad Radio And Electronics,Electronics Store,3.8,18,No,No,No
+409,Adajan,Rander Road,Quick Infocom,Computer Store,4.9,149,No,No,Yes
+410,Adajan,Rander Road,Ambica Handloom,Curtain & Bedsheet Store,4.5,20,No,No,Yes
+411,Adajan,Rander Road,Chistiya Khaman House,Fast Food,4.4,148,No,No,Yes
+412,Adajan,Rander Road,Suresh,General Store,5.0,1,No,No,Yes
+413,Adajan,Rander Road,Ajay's Café,Fast Food,4.3,603,Yes,No,No
+414,Adajan,Rander Road,Rameshbhai Aloopuri,Street Food,4.7,129,No,No,Yes
+415,Adajan,Rander Road,Asal Amdawadi Tawa Fry,Street Food,4.1,1949,No,No,Yes
+416,Adajan,Rander Road,Rina's Kitchen,Restaurant,4.2,5,No,No,Yes
+417,Adajan,Rander Road,Laziz Tawa Fry & Chinese,Street Food,4.5,63,No,No,Yes
+418,Adajan,Rander Road,Eatowo,Meat Shop,4.9,88,No,No,Yes
+419,Adajan,Rander Road,Sahkar Fast Food,Fast Food,4.2,476,No,No,Yes
+420,Adajan,Rander Road,Bs Fast Food,Fast Food,5.0,180,No,No,Yes
+421,Adajan,Rander Road,Royal Chicken N Mutten,Meat Shop,4.7,16,No,No,Yes
+422,Adajan,Rander Road,Food Triangle restaurant,Restaurant,4.9,21,No,No,Yes
+423,Adajan,Rander Road,Lovely Chicken Center,Meat Shop,4.2,159,No,No,Yes
+424,Adajan,Rander Road,Angel Food Zone,Restaurant,4.4,7,No,No,Yes
+425,Adajan,Rander Road,Lijjat Khawsa Center,Fast Food,4.3,1876,No,No,Yes
+426,Adajan,Rander Road,Pakhtoons Kitchen Private Limited,Restaurant,3.9,194,No,No,No
+427,Adajan,Rander Road,Suntosh Bakery,Bakery,4.4,1184,Yes,No,No
+428,Adajan,Rander Road,Capsule The Generic Pharmacy,Medical Store,4.9,45,Yes,No,No
+429,Adajan,Rander Road,Nilesh Medical Stores,Medical Store,4.9,4,No,No,Yes
+430,Adajan,Rander Road,Navyug Medical,Medical Store,5.0,16,No,No,Yes
+431,Adajan,Rander Road,Apollo Pharmacy,Medical Store,4.1,25,Yes,No,No
+432,Adajan,Rander Road,Toran Medical Store,Medical Store,4.5,14,No,No,Yes
+433,Adajan,Rander Road,Jaliyan Medical,Medical Store,4.0,7,No,No,Yes
+434,Adajan,Rander Road,Ramdev Medical Store,Medical Store,4.8,4,No,No,Yes
+435,Adajan,Rander Road,Ravi Medical Stores,Medical Store,5.0,6,No,No,Yes
+436,Adajan,Rander Road,Yash Medical Store,Medical Store,5.0,2,No,No,Yes
+437,Adajan,Rander Road,Mahalaxmi Medical And General Stores,Medical Store,3.6,8,No,No,No
+438,Adajan,Rander Road,Aditya Medical & Provision Stores,Medical Store,5.0,5,No,No,Yes
+439,Adajan,Rander Road,N R Medical Store,Medical Store,5.0,2,No,No,Yes
+440,Adajan,Rander Road,Om Medical & General Stores,Medical Store,5.0,2,No,No,Yes
+441,Adajan,Rander Road,Maanav Medicines & Generals,Medical Store,5.0,3,No,No,Yes
+442,Adajan,Rander Road,Vijay Medical Store,Medical Store,5.0,2,No,No,Yes
+443,Adajan,Rander Road,Ashish Medical Stores,Medical Store,0.0,0,No,No,No
+444,Adajan,Rander Road,Aisha Medical and Provision aamirbhai Store,Medical Store,5.0,10,No,No,Yes
+445,Adajan,Rander Road,MED7,Medical Store,2.6,5,No,No,No
+446,Adajan,Rander Road,Krishna Medical Store,Medical Store,4.0,1,No,No,Yes
+447,Adajan,Rander Road,Astitva Medical Store,Medical Store,4.0,1,No,No,Yes
+448,Adajan,Rander Road,Harsh Medical,Medical Store,5.0,3,No,No,Yes
+449,Adajan,Rander Road,Evoke Unisex Salon,Hair Salon,4.9,112,No,Yes,Yes
+450,Adajan,Rander Road,Jiya's Beauty Hub,Beauty Parlour,4.8,438,No,Yes,Yes
+451,Adajan,Rander Road,Beauty care beauty studio,Beauty Parlour,5.0,15,No,No,Yes
+452,Adajan,Rander Road,Unique Hair Salon,Hair Salon,4.5,97,No,No,Yes
+453,Adajan,Rander Road,Vivaa Salon & Academy,Beauty Parlour,4.7,51,No,Yes,Yes
+454,Adajan,Rander Road,Sai Salon,Hair Salon,3.9,67,No,No,No
+455,Adajan,Rander Road,Classic Saloon,Hair Salon,4.9,38,No,No,Yes
+456,Adajan,Rander Road,Empress Clothing,Clothing,4.8,61,Yes,No,No
+457,Adajan,Rander Road,Kanaiya Fashion,Clothing,4.1,222,No,Yes,Yes
+458,Adajan,Rander Road,First choice man's wear,Clothing,5.0,1,No,No,Yes
+459,Adajan,Rander Road,Shree Radhe fashion hub,Clothing,5.0,3,No,No,Yes
+460,Adajan,Rander Road,Mahira Fashion,Clothing,5.0,5,No,No,Yes
+461,Adajan,Rander Road,Nx level the mens wear,Clothing,4.9,8,Yes,No,No
+462,Adajan,Rander Road,Aarambh Fashion,Clothing,5.0,12,No,Yes,Yes
+463,Adajan,Rander Road,R.C Fashion & Sports Wear,Sports Store,4.6,15,No,No,Yes
+464,Adajan,Rander Road,R C Collection,Clothing,4.1,31,No,No,Yes
+465,Adajan,Rander Road,Haresh Textile,Clothing,4.9,68,Yes,No,No
+466,Adajan,Rander Road,Mrm Fashion,Clothing,4.5,13,No,No,Yes
+467,Adajan,Rander Road,Kanaiya Creation,Clothing,5.0,2,No,Yes,Yes
+468,Adajan,Rander Road,Aavran Collection & Dress Makers,Clothing,5.0,10,No,No,Yes
+469,Adajan,Rander Road,Lal Sai Sportswear,Clothing,5.0,23,No,No,Yes
+470,Adajan,Rander Road,Shiv Shakti Fashion~SSF,Clothing,4.1,8,No,No,Yes
+471,Adajan,Rander Road,Jiya fashion,Clothing,3.3,3,No,No,No
+472,Adajan,Rander Road,Al Shifa Clinic,Medical Clinic,4.9,15,No,No,Yes
+473,Adajan,Rander Road,Meena Clinic,Medical Clinic,5.0,33,No,No,Yes
+474,Adajan,Rander Road,Parshva Clinic,Medical Clinic,5.0,5,No,No,Yes
+475,Adajan,Rander Road,Hasnain Clinic,Medical Clinic,5.0,6,No,No,Yes
+476,Adajan,Rander Road,Shree Sai Clinic,Medical Clinic,4.4,11,No,No,Yes
+477,Adajan,Rander Road,Payal Clinic,Medical Clinic,4.3,3,No,No,Yes
+478,Adajan,Rander Road,Paras Ozone Therapy Center & Homeopathy Clinic,Homeopathy,4.9,86,Yes,No,No
+479,Adajan,Rander Road,Dr Deepa Shah's Juhi Clinic,Medical Clinic,5.0,31,No,No,Yes
+480,Adajan,Rander Road,Khushi E.N.T,Hospital,4.8,1150,Yes,No,No
+481,Adajan,Rander Road,Moradiya Skin Clinic,Medical Clinic,5.0,22,No,No,Yes
+482,Adajan,Rander Road,Red Cross Gym,Gym,4.4,589,No,No,Yes
+483,Adajan,Rander Road,7 Z Gym,Gym,4.8,81,No,No,Yes
+484,Adajan,Rander Road,Rudra Fitness,Gym,4.8,17,No,No,Yes
+485,Adajan,Rander Road,Muscles Monster Gym,Gym,3.5,31,No,No,No
+486,Adajan,Rander Road,Jay Krishna Hardware,Hardware Store,4.9,35,No,No,Yes
+487,Adajan,Rander Road,Ambika Hardware,Hardware Store,5.0,3,No,No,Yes
+488,Adajan,Rander Road,"Shivam Timbers & Hardware, Ply",Hardware Store,4.6,8,No,No,Yes
+489,Adajan,Rander Road,Pearl Enterprise,Hardware Store,5.0,14,No,No,Yes
+490,Adajan,Rander Road,Vikas Hardware,Hardware Store,4.0,2,No,No,Yes
+491,Adajan,Rander Road,Purvi Sanitation,Hardware Store,4.6,29,No,No,Yes
+492,Adajan,Rander Road,Uttam Electronics,Electronics Store,4.6,25,No,No,Yes
+493,Adajan,Rander Road,Raju Electronics,Electronics Store,4.8,14,No,No,Yes
+494,Adajan,Rander Road,Original Adarsh Electronics and Parts,Electronics Store,4.6,10,No,No,Yes
+495,Adajan,Rander Road,Pal Electronics,Electronics Store,4.8,29,No,No,Yes
+496,Adajan,Rander Road,Anand Repairing,Repair Shop,4.7,19,No,No,Yes
+497,Adajan,Rander Road,New Adharsh Electronic,Electronics Store,4.8,5,No,No,Yes
+498,Adajan,Rander Road,Vardhman Electricals,Electrical Store,5.0,2,No,No,Yes
+499,Adajan,Rander Road,Olympic Electronics,Electronics Store,4.1,48,No,No,Yes
+500,Adajan,Rander Road,Shivam Electronincs,Electrical Store,3.8,4,No,No,No
+501,Adajan,Rander Road,Twakkal Mobile Point,Mobile Accessories,5.0,206,No,No,Yes
+502,Adajan,Rander Road,Aarti mobile & electronics,Electronics Store,4.9,10,No,No,Yes
+503,Adajan,Rander Road,Quick infocom,Electronics Store,4.9,149,No,No,Yes
+504,Adajan,Rander Road,PhoneWale,Electronics Store,4.6,55,Yes,No,No
+505,Adajan,Rander Road,Dev Electricals,Electrical Supply Store,4.6,15,No,No,Yes
+506,Adajan,Rander Road,Samsung smart,Electronics Store,4.9,144,Yes,No,No
+507,Adajan,Rander Road,Coffee Waala,Coffee Shop,5.0,7,No,No,Yes
+508,Adajan,Rander Road,Roshni Tea & Pan Center,Tea Store,4.1,143,No,No,Yes
+509,Adajan,Rander Road,AI Baik Café,Café,4.6,19,No,No,Yes
+510,Adajan,Rander Road,Kudrati Kahumba,Juice,4.4,158,No,No,Yes
+511,Adajan,Rander Road,Korean Bingsu Icecream,Ice Cream,4.5,47,No,No,Yes
+512,Adajan,Rander Road,Patel Grocery Store,Grocery,5.0,1,No,No,Yes
+513,Adajan,Rander Road,Mahendra-Narendra Mangoes,Grocery,4.1,385,No,No,Yes
+514,Adajan,Rander Road,Huda Super Store,Grocery,5.0,2,No,No,Yes
+515,Adajan,Rander Road,Sarkar Super Store,Grocery,3.8,10,No,No,No
+516,Adajan,Rander Road,Anurag Stores,Grocery,5.0,4,No,No,Yes
+517,Adajan,Rander Road,Maa Chamunda Super Store,Grocery,3.0,2,No,No,No
+518,Adajan,Rander Road,Tumbi Ramzan,General Store,5.0,11,No,No,Yes
+519,Adajan,Rander Road,Vishal Traders,Grocery,4.4,7,No,No,Yes
+520,Adajan,Rander Road,Damji Store,Grocery,5.0,3,No,No,Yes
+521,Adajan,Rander Road,J.B Traders,Grocery,1.0,1,No,No,No
+522,Adajan,Rander Road,Mangal Agency,Grocery,3.9,8,No,No,No
+523,Adajan,Rander Road,Amar Traders Shop,Grocery,5.0,2,No,No,Yes
+524,Adajan,Rander Road,Radhe Traders,General Store,4.3,3,No,No,Yes
+525,Adajan,Rander Road,New India Traders,General Store,5.0,4,No,No,Yes
+526,Adajan,Rander Road,Good Luck Namkeen Store,Grocery,5.0,1,No,No,Yes
+527,Adajan,Rander Road,Suman Mahila Gruh Udhyog,Food Products Supplier,4.7,45,Yes,No,No
+528,Adajan,Rander Road,New Shiv Store,Grocery,0.0,0,No,No,No
+529,Adajan,Palanpur Canal Road,Surat Super Store,Grocery,0.0,0,No,No,No
+530,Adajan,Palanpur Canal Road,Asha Store,General Store,4.3,40,No,No,Yes
+531,Adajan,Palanpur Canal Road,Mahadev Super Store,Supermarket,4.4,9,No,No,Yes
+532,Adajan,Palanpur Canal Road,Balaji Store,Grocery,2.0,1,No,No,No
+533,Adajan,Palanpur Canal Road,NED Mart,Grocery,5.0,3,Yes,No,No
+534,Adajan,Palanpur Canal Road,Milk Palace,Dairy,3.8,26,Yes,No,No
+535,Adajan,Palanpur Canal Road,Jay Jalaram And Coldrink,General Store,5.0,2,No,No,Yes
+536,Adajan,Palanpur Canal Road,Shri Aashapura Super Stor and Milk,Dairy,5.0,5,No,No,Yes
+537,Adajan,Palanpur Canal Road,Magic of Moms,Grocery,5.0,1,No,No,Yes
+538,Adajan,Palanpur Canal Road,Purabji Kirana Store,Grocery,5.0,1,No,No,Yes
+539,Adajan,Palanpur Canal Road,Navodaya Traders,Grocery,1.0,1,No,No,No
+540,Adajan,Palanpur Canal Road,I JI,Grocery,0.0,0,No,No,No
+541,Adajan,Palanpur Canal Road,Royal Dine,Restaurant,4.2,4702,Yes,No,No
+542,Adajan,Palanpur Canal Road,Kapiano's Pizza's & ThickShake,Restaurant,4.8,36,No,No,Yes
+543,Adajan,Palanpur Canal Road,Lukka's Eat-In MultiCuisine,Restaurant,4.9,10,No,No,Yes
+544,Adajan,Palanpur Canal Road,Concord Restaurant & Banquet,Restaurant,4.2,2367,Yes,No,No
+545,Adajan,Palanpur Canal Road,Grenee,Restaurant,4.4,44,Yes,No,No
+546,Adajan,Palanpur Canal Road,Patel Kitchen,Restaurant,4.6,10,No,No,Yes
+547,Adajan,Palanpur Canal Road,Chatpata,Fast Food,4.8,176,No,No,Yes
+548,Adajan,Palanpur Canal Road,Sai Ratnaa,Restaurant,4.3,236,No,No,Yes
+549,Adajan,Palanpur Canal Road,Gajanand Fast Food,Fast Food,4.5,237,Yes,No,No
+550,Adajan,Palanpur Canal Road,Maa Annapurna Eco Village,Fast Food,4.7,15,No,No,Yes
+551,Adajan,Palanpur Canal Road,Umiya Kutchi Dabeli,Fast Food,4.8,132,No,No,Yes
+552,Adajan,Palanpur Canal Road,Malhar Fast Food,Fast Food,5.0,6,No,No,Yes
+553,Adajan,Palanpur Canal Road,Kalakar Eggiteria's Café,Restaurant,4.3,25,Yes,No,No
+554,Adajan,Palanpur Canal Road,Saffron Restaurant Banquet,Restaurant,4.2,1676,Yes,No,No
+555,Adajan,Palanpur Canal Road,Yellow Bite,Fast Food,5.0,20,No,No,Yes
+556,Adajan,Palanpur Canal Road,Dosti Chai Mahefil,Fast Food,4.9,36,No,No,Yes
+557,Adajan,Palanpur Canal Road,Surti Khaman House,Fast Food,4.4,34,No,No,Yes
+558,Adajan,Palanpur Canal Road,Sagar Alupuri,Fast Food,3.5,10,No,No,No
+559,Adajan,Palanpur Canal Road,Sai Pram Pratha,Restaurant,4.1,17,No,No,Yes
+560,Adajan,Palanpur Canal Road,Jay Jalaram Aloopuri & Fafda,Fast Food,4.4,54,No,No,Yes
+561,Adajan,Palanpur Canal Road,Khana Khajana Tawa Fry,Restaurant,4.3,21,No,No,Yes
+562,Adajan,Palanpur Canal Road,Denish Aalupuri,Fast Food,4.3,6,No,No,Yes
+563,Adajan,Palanpur Canal Road,Veer Omlet Center,Restaurant,5.0,7,No,No,Yes
+564,Adajan,Palanpur Canal Road,Janta Ice Cream,Ice Cream,4.3,15,No,No,Yes
+565,Adajan,Palanpur Canal Road,Bharat Medical and General Store,Medical Store,4.1,12,No,No,Yes
+566,Adajan,Palanpur Canal Road,Shivam Medico,Medical Store,4.6,5,No,No,Yes
+567,Adajan,Palanpur Canal Road,Vishal Medical,Medical Store,4.3,6,No,No,Yes
+568,Adajan,Palanpur Canal Road,Pharmeshwar Medical Store,Medical Store,0.0,0,No,No,No
+569,Adajan,Palanpur Canal Road,Ganesh Medical and General Store,Medical Store,5.0,1,No,No,Yes
+570,Adajan,Palanpur Canal Road,Hari Medical and General Store,Medical Store,0.0,0,No,No,No
+571,Adajan,Palanpur Canal Road,Meera Medical,Medical Store,5.0,3,No,No,Yes
+572,Adajan,Palanpur Canal Road,Apple Chemist,Medical Store,0.0,0,No,No,No
+573,Adajan,Palanpur Canal Road,Heaven Medical,Medical Store,0.0,0,No,No,No
+574,Adajan,Palanpur Canal Road,Shayona Medico,Medical Store,5.0,2,No,No,Yes
+575,Adajan,Palanpur Canal Road,Exonic Salon,Hair Salon,4.4,186,Yes,No,No
+576,Adajan,Palanpur Canal Road,A one Hair & Beauty Studio,Beauty Parlour,4.2,134,Yes,No,No
+577,Adajan,Palanpur Canal Road,Jiya's Beauty Salon,Beauty Parlour,5.0,10,No,No,Yes
+578,Adajan,Palanpur Canal Road,Royal Beauty Salon,Beauty Parlour,4.9,16,No,No,Yes
+579,Adajan,Palanpur Canal Road,Hair Affairs Salon,Hair Salon,4.3,45,No,No,Yes
+580,Adajan,Palanpur Canal Road,Nishi Beauty Salon,Beauty Parlour,4.8,35,No,No,Yes
+581,Adajan,Palanpur Canal Road,One Touch Salon,Beauty Parlour,4.7,13,No,No,Yes
+582,Adajan,Palanpur Canal Road,The Heaven Beauty Studio,Beauty Parlour,5.0,4,No,No,Yes
+583,Adajan,Palanpur Canal Road,Just Blush,Beauty Parlour,4.8,104,Yes,No,No
+584,Adajan,Palanpur Canal Road,AC,Beauty Parlour,4.2,58,No,No,Yes
+585,Adajan,Palanpur Canal Road,W3 Saloon,Hair Salon,3.8,4,No,No,No
+586,Adajan,Palanpur Canal Road,Janvi’s Nail Matrix,Nail Salon,4.7,15,No,Yes,Yes
+587,Adajan,Palanpur Canal Road,Lotus Beauty Salon,Beauty Parlour,5.0,7,No,No,Yes
+588,Adajan,Palanpur Canal Road,Bloosom Beauty Salon,Beauty Parlour,5.0,5,No,No,Yes
+589,Adajan,Palanpur Canal Road,Stay Young Beauty Ladies Salon,Beauty Parlour,4.7,36,No,No,Yes
+590,Adajan,Palanpur Canal Road,Mahavir Hair Salon,Hair Salon,5.0,6,No,No,Yes
+591,Adajan,Palanpur Canal Road,Dglam Makeover Studio,Beauty Parlour,4.9,219,Yes,No,No
+592,Adajan,Palanpur Canal Road,Alpha Skin & Makeup Hub,Beauty Parlour,5.0,27,Yes,No,No
+593,Adajan,Palanpur Canal Road,DK Hair Saloon,Hair Salon,4.4,92,No,No,Yes
+594,Adajan,Palanpur Canal Road,Kamdhenu Electronics,Electronics Store,5.0,20,No,No,Yes
+595,Adajan,Palanpur Canal Road,Geetha Electronics,Repair Shop,4.5,2,No,No,Yes
+596,Adajan,Palanpur Canal Road,TruSellr Enterprise,Electronics Store,5.0,1,No,No,Yes
+597,Adajan,Palanpur Canal Road,Umiya electricals,Electricals & Tool Supplier,4.6,68,No,No,Yes
+598,Adajan,Palanpur Canal Road,Samsung,Electronics Store,4.7,12,Yes,No,No
+599,Adajan,Palanpur Canal Road,Tapi Stabilizer,Electronics Manufacturer,4.7,89,No,No,Yes
+600,Adajan,Palanpur Canal Road,Adarsh Electronics,Electronics Store,4.5,8,No,No,Yes
+601,Adajan,Palanpur Canal Road,Harisiddhi communication,Computer Support & Services,4.8,83,No,No,Yes
+602,Adajan,Palanpur Canal Road,Gunjan Enterprise,Computer Support & Services,5.0,38,No,No,Yes
+603,Adajan,Palanpur Canal Road,MICROTECH IT services,Computer Store,5.0,56,No,No,Yes
+604,Adajan,Palanpur Canal Road,Vijay Electronics & Mobile Sales & Service,Electronics Store,4.7,10,No,No,Yes
+605,Adajan,Palanpur Canal Road,New Pramukh Electricals,Electronics Store,0.0,0,No,No,No
+606,Adajan,Palanpur Canal Road,New Wood City Furniture,Furniture Store,3.3,3,No,No,No
+607,Adajan,Palanpur Canal Road,In Style Furniture,Furniture Store,5.0,4,No,No,Yes
+608,Adajan,Palanpur Canal Road,Custom Furnishing,Furniture Store,4.8,11,No,No,Yes
+609,Adajan,Palanpur Canal Road,Gujju Bazar Furniture,Furniture Store,4.7,503,No,No,Yes
+610,Adajan,Palanpur Canal Road,Shamlazi Furniture,Furniture Store,5.0,1,No,No,Yes
+611,Adajan,Palanpur Canal Road,Aadhya Furniture,Furniture Store,4.3,4,No,No,Yes
+612,Adajan,Palanpur Canal Road,J.K. House of Foam,Furniture Store,5.0,4,No,No,Yes
+613,Adajan,Palanpur Canal Road,Tree Wood,Furniture Store,5.0,2,No,No,Yes
+614,Adajan,Palanpur Canal Road,Gujarat furnishing sofa shop,Sofa Store,5.0,3,No,No,Yes
+615,Adajan,Palanpur Canal Road,Angel Steel Fabrication,Furniture Store,5.0,1,No,No,Yes
+616,Adajan,Palanpur Canal Road,Mamta Electrical and Hardware,Hardware Store,4.7,43,No,No,Yes
+617,Adajan,Palanpur Canal Road,Gurukrupa Hardware & Sanitary were,Hardware Store,5.0,2,No,No,Yes
+618,Adajan,Palanpur Canal Road,Mayur Hardware,Hardware Store,3.0,2,No,No,No
+619,Adajan,Palanpur Canal Road,Mateshwari Hardware & Sanitary,Hardware Store,3.7,9,No,No,No
+620,Adajan,Palanpur Canal Road,Rudray Colour Works,Hardware Store,5.0,1,No,No,Yes
+621,Adajan,Palanpur Canal Road,Shiv Shakti PLYWOOD and Hardware,Hardware Store,0.0,0,No,No,No
+622,Adajan,Palanpur Canal Road,Ply Plus - Laminate Store,Hardware Store,5.0,7,No,No,Yes
+623,Adajan,Palanpur Canal Road,Dhaval Hardware and Electric,Hardware Store,5.0,1,No,No,Yes
+624,Adajan,Palanpur Canal Road,Bharat Pump & Hardware,Hardware Store,4.9,74,No,No,Yes
+625,Adajan,Palanpur Canal Road,Shree Shiv Krupa Hardware,Hardware Store,0.0,0,No,No,No
+626,Adajan,Palanpur Canal Road,Arihant Centenary and Cement,Hardware Store,5.0,1,No,No,Yes
+627,Adajan,Palanpur Canal Road,Log In Infotech,Hardware Store,5.0,9,No,No,Yes
+628,Adajan,Palanpur Canal Road,Sai Krishna Computer,Computer Support & Services,5.0,32,No,No,Yes
+629,Adajan,Palanpur Canal Road,Live-well Clinic,Medical Clinic,5.0,1,No,No,Yes
+630,Adajan,Palanpur Canal Road,Dev Family Clinic,Medical Clinic,4.6,16,No,No,Yes
+631,Adajan,Palanpur Canal Road,NarKar Clinic,Medical Clinic,5.0,12,No,No,Yes
+632,Adajan,Palanpur Canal Road,Deepayu Ayurvedic Clinic,Ayurvedic Clinic,4.8,22,No,No,Yes
+633,Adajan,Palanpur Canal Road,Yash Clinic,Medical Clinic,0.0,0,No,No,No
+634,Adajan,Palanpur Canal Road,Shree Clinic(Dr Harsh A Patel),Medical Clinic,0.0,0,No,No,No
+635,Adajan,Palanpur Canal Road,Sneh Clinic,Medical Clinic,5.0,1,No,No,Yes
+636,Adajan,Palanpur Canal Road,Krishna family clinic &skin lesar hair removal center,Medical Clinic,5.0,37,No,No,Yes
+637,Adajan,Palanpur Canal Road,Mehkey pathology laboratory,Medical Laboratory,4.9,488,No,Yes,Yes
+638,Adajan,Palanpur Canal Road,Shrine Hospital,Hospital,4.9,115,No,Yes,Yes
+639,Adajan,Palanpur Canal Road,Hinal Clinic,Medical Clinic,5.0,9,No,No,Yes
+640,Adajan,Palanpur Canal Road,Metropolis Labs,Medical Laboratory,4.9,25,No,Yes,Yes
+641,Adajan,Palanpur Canal Road,Agni Ayurved Clinic,Ayurvedic Clinic,4.9,34,No,No,Yes
+642,Adajan,Palanpur Canal Road,Shayona Multispeciality Hospital ad ICU,Hospital,4.8,303,No,Yes,Yes
+643,Adajan,Palanpur Canal Road,Narmada Clinic,Medical Clinic,0.0,0,No,No,No
+644,Adajan,Palanpur Canal Road,Shiv Homoeopathy,Medical Clinic,5.0,3,No,No,Yes
+645,Adajan,Palanpur Canal Road,Dhanvantari Clinic,Medical Clinic,0.0,0,No,No,No
+646,Adajan,Palanpur Canal Road,Sadbhav Clinic,Medical Clinic,0.0,0,No,No,No
+647,Adajan,Palanpur Canal Road,Shivam Clinic,Medical Clinic,0.0,0,No,No,No
+648,Adajan,Palanpur Canal Road,Healing Physiotherapy Center,Physiotherapy,4.9,16,No,No,Yes
+649,Adajan,Palanpur Canal Road,Muscle Up Gym,Gym,4.9,72,No,Yes,Yes
+650,Adajan,Palanpur Canal Road,Set Up Fitness,Gym,4.4,19,No,No,Yes
+651,Adajan,Palanpur Canal Road,Toretto Gym,Gym,4.7,425,No,Yes,Yes
+652,Adajan,Palanpur Canal Road,Dr Bakery,Cake Shop,4.9,71,No,No,Yes
+653,Adajan,Palanpur Canal Road,Hardik Bakers,Bakery,4.4,100,No,No,Yes
+654,Adajan,Palanpur Canal Road,Monginis Cake Shop,Cake Shop,4.9,145,Yes,No,No
+655,Adajan,Palanpur Canal Road,New Prashant Bakery,Bakery,4.3,838,No,No,Yes
+656,Adajan,Palanpur Canal Road,Shri Ram Dairy & Sweets,Dairy,5.0,2,No,No,Yes
+657,Adajan,Palanpur Canal Road,Gayatri Bakery & Cake Shop,Bakery,5.0,3,No,No,Yes
+658,Adajan,Palanpur Canal Road,Prakash Bakery,Bakery,5.0,3,No,No,Yes
+659,Adajan,Palanpur Canal Road,Cake Wake Etc,Cake Shop,5.0,2,No,No,Yes
+660,Adajan,Palanpur Canal Road,Nikhil Bakery,Bakery,5.0,25,No,No,Yes
+661,Adajan,Palanpur Canal Road,New India Bakery,Bakery,0.0,0,No,No,No
+662,Adajan,Palanpur Canal Road,Mishronies,Cake Shop,5.0,11,No,No,Yes
+663,Adajan,Palanpur Canal Road,D cake hub,Cake Shop,0.0,0,No,No,No
+664,Adajan,Palanpur Canal Road,Brothers Bakery,Bakery,3.2,5,No,No,No
+665,Adajan,Palanpur Canal Road,Murlidhar Mobiles & Accessories,Electronic Accessories,4.9,27,No,No,Yes
+666,Adajan,Palanpur Canal Road,Sai Tirth Mobile,Repair Shop,4.0,31,No,No,Yes
+667,Adajan,Palanpur Canal Road,MobileFone,Repair Shop,3.6,14,No,No,No
+668,Adajan,Palanpur Canal Road,Ahuja The Mobile Hub,Electronics Store,4.0,1,No,No,Yes
+669,Adajan,Palanpur Canal Road,Jay Telecom,Electronics Store,4.8,10,No,No,Yes
+670,Adajan,Palanpur Canal Road,Shree Dev Mobile,Electronic Accessories,3.4,5,No,No,No
+671,Adajan,Palanpur Canal Road,Dwarkesh Mobile & Accessories,Electronics Store,5.0,13,No,No,Yes
+672,Adajan,Palanpur Canal Road,8To9 Mobile Shop,Electronics Store,4.9,67,No,No,Yes
+673,Adajan,Palanpur Canal Road,Krishna Mobile,Repair Shop,4.2,13,No,No,Yes
+674,Adajan,Palanpur Canal Road,Harisiddhi communication,Computer Support & Services,4.8,83,No,No,Yes
+675,Adajan,Palanpur Canal Road,Purvi Mobile Repairing Service Center,Repair Shop,4.8,9,No,No,Yes
+676,Adajan,Palanpur Canal Road,Sai Sarkar Mobile Repairing,Repair Shop,3.9,7,No,No,No
+677,Adajan,Palanpur Canal Road,Vijay Electronics & Mobile Sales & Service,Electronics Store,4.7,10,No,No,Yes
+678,Adajan,Palanpur Canal Road,Vinayak Mobile,Repair Shop,5.0,2,No,No,Yes
+679,Adajan,Palanpur Canal Road,Brother Mobile Shop,Electronic Accessories,3.7,3,No,No,No
+680,Adajan,Palanpur Canal Road,Netre,Optical Store,4.9,91,Yes,No,No
+681,Adajan,Palanpur Canal Road,Eye to Eye Optical & Optometry,Optical Store,4.9,77,Yes,No,No
+682,Adajan,Palanpur Canal Road,Daksh Optical,Optical Store,5.0,13,No,No,Yes
+683,Adajan,Palanpur Canal Road,Japan Chasma,Optical Store,3.3,3,No,No,No
+684,Adajan,Palanpur Canal Road,Jayshree Jewellers,Jewellery Store,4.5,2,No,No,Yes
+685,Adajan,Palanpur Canal Road,Machtek Jewellery Machinery & Tools,Jewllery Equipment Supplier,5.0,1,No,No,Yes
+686,Adajan,Palanpur Canal Road,Laxmi Jewellers,Jewellery Store,4.9,48,No,No,Yes
+687,Adajan,Palanpur Canal Road,Krishna Gift,Gift Shop,5.0,6,No,No,Yes
+688,Adajan,Palanpur Canal Road,Raizal Gift Creation,Gift Shop,5.0,1,No,No,Yes
+689,Adajan,Palanpur Canal Road,Sky Gift & Stationary,Gift Shop,5.0,7,No,No,Yes
+690,Adajan,Palanpur Canal Road,Star Gift & Dollar Shop,Gift Shop,4.1,22,Yes,No,No
+691,Adajan,Palanpur Canal Road,Anjali Novelty & Gift Store,Gift Shop,4.3,6,No,No,Yes
