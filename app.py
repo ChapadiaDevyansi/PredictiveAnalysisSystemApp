@@ -138,9 +138,7 @@ if page == "🏠 Dashboard":
     col7.metric("💻 Website Needed", website_needed)
     col8.metric("🚀 Opportunities", opportunity)
 
-    st.info(
-        "Use the navigation menu on the left to explore Business Overview, Opportunity Analysis, and Business Insights."
-    )
+   
 
     # ===========================
 # BUSINESS OVERVIEW PAGE
