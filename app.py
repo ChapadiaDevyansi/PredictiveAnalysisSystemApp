@@ -622,35 +622,61 @@ elif page == "🤖 Machine Learning":
     - ✅ The Decision Tree model can predict whether a business is likely to require a website based on business characteristics.
     """)
 
-    # ===========================
+   # ===========================
 # BUSINESS INSIGHTS PAGE
 # ===========================
 
 elif page == "💡 Business Insights":
 
     st.title("💡 Business Insights")
-    st.markdown("Key findings from the Google Maps Business Analysis")
+    st.markdown("### 📊 Key Findings from the Business Analysis")
     st.divider()
 
-    st.subheader("📊 Key Findings")
-
     st.markdown("### 🌐 Digital Presence")
-    st.write("• 535 out of 691 businesses (77.42%) do not have a website, highlighting a significant digital presence gap.")
+    st.write(
+        "• Out of **691 businesses**, **535 businesses (77.42%)** do not have a website. "
+        "This highlights a significant digital presence gap and shows that many local businesses "
+        "still rely mainly on offline customers or Google Maps to reach their audience."
+    )
 
     st.markdown("### ⭐ Customer Satisfaction")
-    st.write("• The average business rating is **4.35/5**, indicating good customer satisfaction across most businesses.")
+    st.write(
+        "• The average business rating is **4.35/5**, indicating that most businesses provide "
+        "good customer service. This positive reputation creates an excellent opportunity for "
+        "businesses to strengthen their online presence."
+    )
 
     st.markdown("### 🚀 Opportunity Businesses")
-    st.write("• 46 highly rated businesses without websites have been identified as strong opportunities for digital transformation.")
+    st.write(
+        "• **46 highly rated businesses** without websites were identified as strong opportunities "
+        "for digital transformation. These businesses can potentially attract more customers by "
+        "building their own websites."
+    )
 
     st.markdown("### 📍 Area-wise Analysis")
-    st.write("• Palanpur Canal Road, Rander Road, and Gujarat Gas Circle have the highest concentration of businesses and website opportunities.")
+    st.write(
+        "• **Palanpur Canal Road, Rander Road, and Gujarat Gas Circle** have the highest "
+        "concentration of businesses. These areas should be given priority for website development "
+        "and digital awareness initiatives."
+    )
 
     st.markdown("### 🏪 Category Analysis")
-    st.write("• Clothing Stores, Medical Stores, Electronics Stores, and Grocery Stores have the highest potential for website adoption.")
+    st.write(
+        "• Business categories such as **Clothing Stores, Medical Stores, Electronics Stores, "
+        "and Grocery Stores** show the highest potential for website adoption due to their "
+        "frequent customer interactions."
+    )
 
     st.markdown("### 🤖 Predictive Business Insight")
-    st.write("• The machine learning model helps identify businesses that are most likely to require a website, making it easier to prioritize digital transformation efforts.")
+    st.write(
+        "• The machine learning model can help identify businesses that are most likely to require "
+        "a website. This allows businesses and decision-makers to prioritize digital transformation "
+        "efforts more efficiently."
+    )
 
     st.markdown("### 📈 Growth Potential")
-    st.write("• Businesses with strong customer engagement and positive ratings have greater potential to expand their online presence through digital platforms.")
+    st.write(
+        "• Businesses with strong customer engagement, positive ratings, and higher review counts "
+        "have greater potential to grow through digital platforms. Investing in a website can "
+        "improve visibility, customer trust, and long-term business growth."
+    )
