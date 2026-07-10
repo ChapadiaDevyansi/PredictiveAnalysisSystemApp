@@ -643,21 +643,17 @@ elif page == "💡 Business Insights":
  #with st.expander("View Key Findings", expanded=True):
 
     st.markdown("""
-    **🌐 Digital Presence**
-    - 535 out of 691 businesses (77.42%) do not have a website, highlighting a significant digital presence gap.
-
-    **⭐ Customer Satisfaction**
-    - The average business rating is **4.35/5**, indicating good customer satisfaction.
-
-    **🚀 Opportunity Businesses**
-    - 46 businesses have been identified as high-potential opportunities because they have high ratings but no website.
-
-    **📍 Area-wise Analysis**
-    - Palanpur Canal Road, Rander Road, and Gujarat Gas Circle have the highest concentration of businesses.
-
-    **🏪 Category Analysis**
-    - Clothing, Medical Store, Electronics Store, and Grocery are among the most common business categories.
-
-    **📈 Growth Potential**
-    - Businesses with high ratings and many customer reviews have strong potential to expand their online presence.
-    """)
+    🌐 Digital Presence
+535 out of 691 businesses (77.42%) do not have a website, highlighting a significant digital presence gap.
+⭐ Customer Satisfaction
+The average business rating is 4.35/5, indicating good customer satisfaction across most businesses.
+🚀 Opportunity Businesses
+46 highly rated businesses without websites have been identified as strong opportunities for digital transformation.
+📍 Area-wise Analysis
+Palanpur Canal Road, Rander Road, and Gujarat Gas Circle have the highest concentration of businesses and website opportunities.
+🏪 Category Analysis
+Clothing, Medical Store, Electronics Store, and Grocery Store businesses have the highest potential for website adoption.
+🤖 Predictive Business Insight
+The machine learning model can help identify businesses that are most likely to require a website, making it easier to prioritize digital transformation efforts.
+📈 Growth Potential
+Businesses with strong customer engagement and positive ratings have greater potential to expand their online presence.
