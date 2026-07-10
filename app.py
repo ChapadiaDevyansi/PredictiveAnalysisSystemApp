@@ -623,8 +623,8 @@ elif page == "🤖 Machine Learning":
     """)
 
     # ===========================
-    # BUSINESS INSIGHTS PAGE
-    # ===========================
+# BUSINESS INSIGHTS PAGE
+# ===========================
 
 elif page == "💡 Business Insights":
 
@@ -632,45 +632,25 @@ elif page == "💡 Business Insights":
     st.markdown("Key findings from the Google Maps Business Analysis")
     st.divider()
 
-    
+    st.subheader("📊 Key Findings")
 
-    # ----------------------------------------
-    # Business Insights
-    # ----------------------------------------
+    st.markdown("### 🌐 Digital Presence")
+    st.write("• 535 out of 691 businesses (77.42%) do not have a website, highlighting a significant digital presence gap.")
 
-   st.subheader("📊 Key Findings")
+    st.markdown("### ⭐ Customer Satisfaction")
+    st.write("• The average business rating is **4.35/5**, indicating good customer satisfaction across most businesses.")
 
-st.markdown("### 🌐 Digital Presence")
-st.markdown("""
-- **535 out of 691 businesses (77.42%)** do not have a website, highlighting a significant digital presence gap.
-""")
+    st.markdown("### 🚀 Opportunity Businesses")
+    st.write("• 46 highly rated businesses without websites have been identified as strong opportunities for digital transformation.")
 
-st.markdown("### ⭐ Customer Satisfaction")
-st.markdown("""
-- The average business rating is **4.35/5**, indicating good customer satisfaction across most businesses.
-""")
+    st.markdown("### 📍 Area-wise Analysis")
+    st.write("• Palanpur Canal Road, Rander Road, and Gujarat Gas Circle have the highest concentration of businesses and website opportunities.")
 
-st.markdown("### 🚀 Opportunity Businesses")
-st.markdown("""
-- **46 highly rated businesses** without websites have been identified as strong opportunities for digital transformation.
-""")
+    st.markdown("### 🏪 Category Analysis")
+    st.write("• Clothing Stores, Medical Stores, Electronics Stores, and Grocery Stores have the highest potential for website adoption.")
 
-st.markdown("### 📍 Area-wise Analysis")
-st.markdown("""
-- **Palanpur Canal Road, Rander Road, and Gujarat Gas Circle** have the highest concentration of businesses and website opportunities.
-""")
+    st.markdown("### 🤖 Predictive Business Insight")
+    st.write("• The machine learning model helps identify businesses that are most likely to require a website, making it easier to prioritize digital transformation efforts.")
 
-st.markdown("### 🏪 Category Analysis")
-st.markdown("""
-- **Clothing Stores, Medical Stores, Electronics Stores, and Grocery Stores** have the highest potential for website adoption.
-""")
-
-st.markdown("### 🤖 Predictive Business Insight")
-st.markdown("""
-- The machine learning model helps identify businesses that are most likely to require a website, making it easier to prioritize digital transformation efforts.
-""")
-
-st.markdown("### 📈 Growth Potential")
-st.markdown("""
-- Businesses with strong customer engagement and positive ratings have greater potential to expand their online presence through digital platforms.
-""")
+    st.markdown("### 📈 Growth Potential")
+    st.write("• Businesses with strong customer engagement and positive ratings have greater potential to expand their online presence through digital platforms.")
